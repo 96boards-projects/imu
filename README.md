@@ -44,7 +44,7 @@ $ sudo apt-get install libmraa-dev python-opengl python-pygame
 # 3. Building and Running:
 
 ```shell
-$ git clone https://github.com/96boards/projects.git      
+$ git clone https://github.com/96boards-projects/imu.git      
 $ cd projects/imu																													
 $ make
 ```
